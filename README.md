@@ -1,5 +1,10 @@
 # desafio-SolMazza-2024
 
+
+
+ Estruturei o código separando os habitates em um array de objetos e os animais em outro array de objeto, com as devidas propriedades. Com base nisso fui montando a lógica das validações do código, para que cada animal se sentisse confortável em seu bioma.
+ Tenho muita coisa para melhor, mas estou desposta a aprender e melhorar cada vez mais
+
 # RECINTOS DO ZOO
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
